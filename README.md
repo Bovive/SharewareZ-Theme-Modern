@@ -1,1 +1,2 @@
-# SharewareZ-Theme-Modern
+# SharewareZ Modern Theme
+
