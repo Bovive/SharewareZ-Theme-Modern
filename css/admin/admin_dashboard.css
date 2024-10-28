@@ -189,6 +189,26 @@
 
 }
 
+.dashboard-column-13 {
+	grid-column: auto;
+	align-items: stretch;
+	display: flex;
+	justify-content: center;
+
+}
+
+.dashboard-column-13 a{
+	background-color: #7289da;
+	border: none;
+
+}
+
+.dashboard-column-13:hover a{
+	background-color: #667bc4;
+	border: none;
+
+}
+
 .settingsform-admin {
         
 	padding: 20px;
