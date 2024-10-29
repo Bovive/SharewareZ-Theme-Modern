@@ -1,6 +1,6 @@
 
 body {
-    background-image: url('/static/library/themes/modern/images/background-image.png'); 
+    background-image: url('/static/library/themes/Modern/images/background-image.png'); 
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -633,3 +633,5 @@ form textarea {
 .list-group {
 	border-radius: 0px;
 }
+
+
